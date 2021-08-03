@@ -1,0 +1,43 @@
+body{
+    font-size: 16px;
+    color: #fff;
+    background-color: #ff3838;
+    font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {    
+    background-color: #ff9f1a;
+    border-radius: 0;
+    border: 0;
+   
+}
+
+#header-nav a:nth-child(1){
+    font-size: 20px;
+    color:whitesmoke;
+}
+
+#nav-list {
+    margin-top: 10px;
+}
+
+#nav-list a{
+    color:whitesmoke;
+}
+
+#nav-list a:hover{
+    background-color:#4b4b4b ;
+}
+
+#nav-list a span {
+    font-size: 1.2em;;
+}
+
+.container-fluid {
+    background-color: #ff9f1a;
+    margin-left: 02%;
+    margin-right: 02%;
+    color:#222f3e;
+    font-family: "Consolas", monospace;
+}
